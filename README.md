@@ -35,3 +35,6 @@ Subscript look like<sub>subscript</sub> - by adding \<sub> before and \</sub> af
 
 [this is the text i want to see to link to google](google.com) - text is surrounded by brackets, followed by the link in parentheses
 
+## Image
+
+![image](Github\ test\ image.gif) 
