@@ -38,4 +38,9 @@ Subscript look like<sub>subscript</sub> - by adding \<sub> before and \</sub> af
 ## Image
 
 ![image](Github-test-image.gif)  
-Images have to be in Github in the directory to be linked to as files, otherwise you can add "images/image-file-name" for example
+Images have to be in Github in the directory to be linked to as files, otherwise you can add "images/image-file-name" for example  
+To go up a level, use "../" with iterations for each level you need to go up before you go back down the correct folders/file  
+ie. "../../Images/image-file-name.jpg"
+
+
+
